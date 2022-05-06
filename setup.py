@@ -13,7 +13,7 @@ setup(name='spookynet',
       python_requires=">=3.7",
       install_requires=[
           "ase>=3.22.1",
-          "numpy>=1.22.3",
+          "numpy>=1.21.6",
           "scikit-learn>=1.0.2",
           "torch>=1.11.0",
       ],
